@@ -18,8 +18,8 @@
         Resumo:
 
         Esse Trabalho de continuação tem como objetivo apresentar um aplicativo
-        gamificado para o ensino de matemática básica para crianças com Síndrome
-        de Down com foco na faixa etária de 7 a 15 anos. Continuando a implementação 
+        gamificado para o ensino de matemática básica para crianças do ensino fundamental I
+         com foco na faixa etária de 6 á 10 anos. Continuando a implementação 
         dos modulos refenreciados no trabalho de conclusão de curso.
   
 </div>
