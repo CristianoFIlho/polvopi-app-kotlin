@@ -66,7 +66,7 @@ Artigos base e referenciais:
     <summary><b>✨&nbsp;&nbsp;Tecnologias:&nbsp;</b></summary>
     <br/>
 
- <a href="https://reactnative.dev/"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React-Native">
+ <a href="https://kotlinlang.org/docs/getting-started.html"> <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
 
  </a>
 </details>
