@@ -1,4 +1,5 @@
 # MVP-Polvo π
+![MVP-Polvo π](
 
 ## MVP-Polvo π - Aplicação aplicativo gamificado para o ensino de matemática básica para crianças do ensino fundalmental I
 
