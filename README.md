@@ -50,12 +50,12 @@ Artigos base e referenciais:
 
 
 [ <img src="https://avatars.githubusercontent.com/u/54041918?s=400&u=9691b69b1b7c46137971d4b2775228007fff85a9&v=4"
-    width="200px; " /><br><sub><b>Cristiano Filho</b></sub> ](https://github.com/CristianoFilho)
+    width="50px; " /><br><sub><b>Cristiano Filho</b></sub> ](https://github.com/CristianoFilho)
 <br>
-[ <img src="https://avatars.githubusercontent.com/u/79553621?v=4" width="200px; " /><br><sub><b>Lucas Augusto</b></sub>
+[ <img src="https://avatars.githubusercontent.com/u/79553621?v=4" width="50px; " /><br><sub><b>Lucas Augusto</b></sub>
 ](https://github.com/lucasagw)
 
-[ <img src="https://avatars.githubusercontent.com/u/77082657?v=4" width="200px; " /><br><sub><b>Enzo Santana</b></sub>
+[ <img src="https://avatars.githubusercontent.com/u/77082657?v=4" width="50px; " /><br><sub><b>Enzo Santana</b></sub>
 ](https://github.com/EnzoSAlmeida)
 </div>
 
