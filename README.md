@@ -3,8 +3,7 @@
 ## MVP-Polvo π - Aplicação aplicativo gamificado para o ensino de matemática básica para crianças do ensino fundalmental I
 
 ## Mockup UI
-![Screens MVP-Polvo π](![Prototype](https://github.com/walissonsilva/quiz-app-kotlin/assets/54041918/59a561b2-0148-47be-9669-382433336eed)
-)
+![Screens MVP-Polvo π](https://github.com/walissonsilva/quiz-app-kotlin/assets/54041918/59a561b2-0148-47be-9669-382433336eed)
 
 
 
