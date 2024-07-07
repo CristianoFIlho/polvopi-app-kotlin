@@ -61,12 +61,14 @@ Artigos base e referenciais:
 </div>
 
 
-<div>   
+<div style="display: flex; align-items: center;">   
 <details>
     <summary><b>✨&nbsp;&nbsp;Tecnologias:&nbsp;</b></summary>
     <br/>
 
  <a href="https://kotlinlang.org/docs/getting-started.html"> <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
+
+ <a href="https://firebase.google.com/docs?hl=pt-br"> <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
 
  </a>
 </details>
